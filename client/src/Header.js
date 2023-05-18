@@ -55,7 +55,6 @@ function Header(props) {
 
       </div>
       <Modal active={modalActive} clickHaldler={handleClick} registrationCheck={true} auth={setAuthed}>
-
       </Modal>
     </header>
   )
